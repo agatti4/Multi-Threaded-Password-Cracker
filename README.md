@@ -7,3 +7,5 @@ Producers pull words from a dictionary file and consumers test 80 variations of 
 To compile: Use terminal command gcc -pthread -g -o main main.c producer.c consumer.c sha-256.c
 <br>
 To run: Use terminal command ./main dictionaryFile passwordFile outputFile numberOfProducers numberOfConsumers
+
+Note: I did not create SHA_256.c and SHA_256.h, they were given by the professor
