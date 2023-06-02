@@ -8,4 +8,4 @@ To compile: Use terminal command gcc -pthread -g -o main main.c producer.c consu
 <br>
 To run: Use terminal command ./main dictionaryFile passwordFile outputFile numberOfProducers numberOfConsumers
 
-Note: I did not create SHA_256.c and SHA_256.h, they were given by the professor
+Note: I did not create sha-256.c and sha-256.h, they were given by the professor
